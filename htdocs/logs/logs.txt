@@ -1,0 +1,1698 @@
+-----------2013-10-29 10:00:25-----------
+IT-2013-10-24: no data from Spotify-WS!!!
+-----------2013-10-29 10:00:50-----------
+IT-2013-10-25: no data from Spotify-WS!!!
+-----------2013-10-29 10:02:10-----------
+ES-2013-10-28: no data from Spotify-WS!!!
+-----------2013-10-29 10:02:27-----------
+AT-2013-10-28: no data from Spotify-WS!!!
+-----------2013-10-29 10:02:59-----------
+./at/spotify_toplist_for_AT_2013_10_18.gz created
+unzip to ./at/spotify_toplist_for_AT_2013_10_18
+get json and write to csv
+-----------2013-10-29 10:09:38-----------
+file spotify_toplist_for_AT_2013_10_18.gz exists!!!
+-----------2013-11-05 11:05:54-----------
+./data/at/spotify_toplist_for_AT_2013_11_02.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_02
+get json and write to csv
+-----------2013-11-05 14:53:26-----------
+./data/de/spotify_toplist_for_DE_2013_11_02.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_11_02
+get json and write to csv
+-----------2013-11-14 09:45:53-----------
+./data/at/spotify_toplist_for_AT_2013_11_10.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_10
+get json and write to csv
+-----------2013-11-14 10:42:16-----------
+./data/at/spotify_toplist_for_AT_2013_11_10.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_10
+get json and write to csv
+-----------2013-11-14 10:50:02-----------
+./data/at/spotify_toplist_for_AT_2013_11_10.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_10
+get json and write to csv
+-----------2013-11-15 16:49:07-----------
+./data/at/spotify_toplist_for_AT_2013_11_12.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_12
+get json and write to csv
+-----------2013-11-15 16:54:53-----------
+./data/at/spotify_toplist_for_AT_2013_11_12.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_12
+get json and write to csv
+-----------2013-11-15 16:56:44-----------
+./data/at/spotify_toplist_for_AT_2013_11_12.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_12
+get json and write to csv
+-----------2013-11-15 16:58:53-----------
+./data/at/spotify_toplist_for_AT_2013_11_12.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_12
+get json and write to csv
+-----------2013-11-15 17:05:44-----------
+./data/at/spotify_toplist_for_AT_2013_11_12.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_12
+get json and write to csv
+-----------2013-11-15 17:12:47-----------
+./data/at/spotify_toplist_for_AT_2013_11_12.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_12
+get json and write to csv
+-----------2013-11-15 17:20:02-----------
+./data/at/spotify_toplist_for_AT_2013_11_10.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_10
+get json and write to csv
+-----------2013-11-15 17:23:25-----------
+./data/at/spotify_toplist_for_AT_2013_11_10.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_10
+get json and write to csv
+-----------2013-11-15 17:28:50-----------
+./data/at/spotify_toplist_for_AT_2013_11_10.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_10
+get json and write to txt
+-----------2013-11-18 10:38:11-----------
+./data/nl/spotify_toplist_for_NL_2013_11_09.gz created
+unzip to ./data/nl/spotify_toplist_for_NL_2013_11_09
+get json and write to txt
+-----------2013-11-18 10:39:46-----------
+./data/nl/spotify_toplist_for_NL_2013_11_10.gz created
+unzip to ./data/nl/spotify_toplist_for_NL_2013_11_10
+get json and write to txt
+-----------2013-11-18 10:42:24-----------
+./data/nl/spotify_toplist_for_NL_2013_11_11.gz created
+unzip to ./data/nl/spotify_toplist_for_NL_2013_11_11
+get json and write to txt
+-----------2013-11-18 10:43:49-----------
+./data/nl/spotify_toplist_for_NL_2013_11_12.gz created
+unzip to ./data/nl/spotify_toplist_for_NL_2013_11_12
+get json and write to txt
+-----------2013-11-18 10:45:30-----------
+./data/nl/spotify_toplist_for_NL_2013_11_13.gz created
+unzip to ./data/nl/spotify_toplist_for_NL_2013_11_13
+get json and write to txt
+-----------2013-11-18 10:48:32-----------
+./data/nl/spotify_toplist_for_NL_2013_11_14.gz created
+unzip to ./data/nl/spotify_toplist_for_NL_2013_11_14
+get json and write to txt
+-----------2013-11-18 10:50:26-----------
+./data/nl/spotify_toplist_for_NL_2013_11_15.gz created
+unzip to ./data/nl/spotify_toplist_for_NL_2013_11_15
+get json and write to txt
+-----------2013-11-18 10:52:00-----------
+./data/nl/spotify_toplist_for_NL_2013_11_16.gz created
+unzip to ./data/nl/spotify_toplist_for_NL_2013_11_16
+get json and write to txt
+-----------2013-11-18 10:53:53-----------
+./data/nl/spotify_toplist_for_NL_2013_11_17.gz created
+unzip to ./data/nl/spotify_toplist_for_NL_2013_11_17
+get json and write to txt
+-----------2013-11-18 10:55:34-----------
+NL-2013-11-18: no data from Spotify-WS!!!
+-----------2013-11-18 10:55:49-----------
+./data/be/spotify_toplist_for_BE_2013_11_09.gz created
+unzip to ./data/be/spotify_toplist_for_BE_2013_11_09
+get json and write to txt
+-----------2013-11-18 10:56:23-----------
+./data/be/spotify_toplist_for_BE_2013_11_10.gz created
+unzip to ./data/be/spotify_toplist_for_BE_2013_11_10
+get json and write to txt
+-----------2013-11-18 10:57:04-----------
+./data/be/spotify_toplist_for_BE_2013_11_11.gz created
+unzip to ./data/be/spotify_toplist_for_BE_2013_11_11
+get json and write to txt
+-----------2013-11-18 10:57:52-----------
+./data/be/spotify_toplist_for_BE_2013_11_12.gz created
+unzip to ./data/be/spotify_toplist_for_BE_2013_11_12
+get json and write to txt
+-----------2013-11-18 10:58:34-----------
+./data/be/spotify_toplist_for_BE_2013_11_13.gz created
+unzip to ./data/be/spotify_toplist_for_BE_2013_11_13
+get json and write to txt
+-----------2013-11-18 10:59:21-----------
+./data/be/spotify_toplist_for_BE_2013_11_14.gz created
+unzip to ./data/be/spotify_toplist_for_BE_2013_11_14
+get json and write to txt
+-----------2013-11-18 10:59:58-----------
+./data/be/spotify_toplist_for_BE_2013_11_15.gz created
+unzip to ./data/be/spotify_toplist_for_BE_2013_11_15
+get json and write to txt
+-----------2013-11-18 11:00:35-----------
+./data/be/spotify_toplist_for_BE_2013_11_16.gz created
+unzip to ./data/be/spotify_toplist_for_BE_2013_11_16
+get json and write to txt
+-----------2013-11-18 11:01:21-----------
+./data/be/spotify_toplist_for_BE_2013_11_17.gz created
+unzip to ./data/be/spotify_toplist_for_BE_2013_11_17
+get json and write to txt
+-----------2013-11-18 11:02:12-----------
+BE-2013-11-18: no data from Spotify-WS!!!
+-----------2013-11-18 11:13:52-----------
+./data/es/spotify_toplist_for_ES_2013_11_09.gz created
+unzip to ./data/es/spotify_toplist_for_ES_2013_11_09
+get json and write to txt
+-----------2013-11-18 11:15:28-----------
+./data/es/spotify_toplist_for_ES_2013_11_10.gz created
+unzip to ./data/es/spotify_toplist_for_ES_2013_11_10
+get json and write to txt
+-----------2013-11-18 11:16:55-----------
+./data/es/spotify_toplist_for_ES_2013_11_11.gz created
+unzip to ./data/es/spotify_toplist_for_ES_2013_11_11
+-----------2013-11-18 11:18:20-----------
+get json and write to txt
+-----------2013-11-18 11:18:39-----------
+./data/de/spotify_toplist_for_DE_2013_11_09.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_11_09
+-----------2013-11-18 11:18:46-----------
+./data/ch/spotify_toplist_for_CH_2013_11_09.gz created
+unzip to ./data/ch/spotify_toplist_for_CH_2013_11_09
+-----------2013-11-18 11:19:03-----------
+./data/es/spotify_toplist_for_ES_2013_11_12.gz created
+get json and write to txt
+./data/at/spotify_toplist_for_AT_2013_11_09.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_09
+unzip to ./data/es/spotify_toplist_for_ES_2013_11_12
+-----------2013-11-18 11:19:16-----------
+get json and write to txt
+-----------2013-11-18 11:19:22-----------
+-----------2013-11-18 11:19:27-----------
+file spotify_toplist_for_AT_2013_11_10.gz exists!!!
+./data/fr/spotify_toplist_for_FR_2013_11_09.gz created
+unzip to ./data/fr/spotify_toplist_for_FR_2013_11_09
+./data/ch/spotify_toplist_for_CH_2013_11_10.gz created
+unzip to ./data/ch/spotify_toplist_for_CH_2013_11_10
+get json and write to txt
+-----------2013-11-18 11:19:50-----------
+./data/at/spotify_toplist_for_AT_2013_11_10.gz created
+-----------2013-11-18 11:19:55-----------
+get json and write to txt
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_10
+-----------2013-11-18 11:20:00-----------
+get json and write to txt
+get json and write to txt
+./data/ch/spotify_toplist_for_CH_2013_11_11.gz created
+-----------2013-11-18 11:20:12-----------
+unzip to ./data/ch/spotify_toplist_for_CH_2013_11_11
+get json and write to txt
+-----------2013-11-18 11:20:16-----------
+./data/de/spotify_toplist_for_DE_2013_11_10.gz created
+./data/at/spotify_toplist_for_AT_2013_11_11.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_11
+-----------2013-11-18 11:20:23-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_11_10
+get json and write to txt
+get json and write to txt
+-----------2013-11-18 11:20:39-----------
+-----------2013-11-18 11:20:43-----------
+./data/fr/spotify_toplist_for_FR_2013_11_10.gz created
+unzip to ./data/fr/spotify_toplist_for_FR_2013_11_10
+./data/ch/spotify_toplist_for_CH_2013_11_12.gz created
+unzip to ./data/ch/spotify_toplist_for_CH_2013_11_12
+./data/es/spotify_toplist_for_ES_2013_11_13.gz created
+./data/at/spotify_toplist_for_AT_2013_11_12.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_12
+unzip to ./data/es/spotify_toplist_for_ES_2013_11_13
+get json and write to txt
+-----------2013-11-18 11:21:09-----------
+./data/at/spotify_toplist_for_AT_2013_11_13.gz created
+get json and write to txt
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_13
+get json and write to txt
+-----------2013-11-18 11:21:20-----------
+get json and write to txt
+get json and write to txt
+./data/ch/spotify_toplist_for_CH_2013_11_13.gz created
+unzip to ./data/ch/spotify_toplist_for_CH_2013_11_13
+-----------2013-11-18 11:21:45-----------
+get json and write to txt
+-----------2013-11-18 11:21:50-----------
+-----------2013-11-18 11:21:54-----------
+-----------2013-11-18 11:21:58-----------
+get json and write to txt
+./data/at/spotify_toplist_for_AT_2013_11_14.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_14
+./data/de/spotify_toplist_for_DE_2013_11_11.gz created
+./data/ch/spotify_toplist_for_CH_2013_11_14.gz created
+-----------2013-11-18 11:22:11-----------
+unzip to ./data/ch/spotify_toplist_for_CH_2013_11_14
+get json and write to txt
+unzip to ./data/de/spotify_toplist_for_DE_2013_11_11
+./data/fr/spotify_toplist_for_FR_2013_11_11.gz created
+unzip to ./data/fr/spotify_toplist_for_FR_2013_11_11
+-----------2013-11-18 11:22:24-----------
+get json and write to txt
+./data/at/spotify_toplist_for_AT_2013_11_15.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_15
+./data/es/spotify_toplist_for_ES_2013_11_14.gz created
+unzip to ./data/es/spotify_toplist_for_ES_2013_11_14
+get json and write to txt
+-----------2013-11-18 11:22:42-----------
+./data/ch/spotify_toplist_for_CH_2013_11_15.gz created
+-----------2013-11-18 11:22:51-----------
+unzip to ./data/ch/spotify_toplist_for_CH_2013_11_15
+get json and write to txt
+./data/at/spotify_toplist_for_AT_2013_11_16.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_16
+-----------2013-11-18 11:23:06-----------
+get json and write to txt
+get json and write to txt
+get json and write to txt
+-----------2013-11-18 11:23:13-----------
+./data/at/spotify_toplist_for_AT_2013_11_17.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_17
+-----------2013-11-18 11:23:20-----------
+-----------2013-11-18 11:23:23-----------
+./data/fr/spotify_toplist_for_FR_2013_11_12.gz created
+unzip to ./data/fr/spotify_toplist_for_FR_2013_11_12
+get json and write to txt
+./data/ch/spotify_toplist_for_CH_2013_11_16.gz created
+unzip to ./data/ch/spotify_toplist_for_CH_2013_11_16
+get json and write to txt
+-----------2013-11-18 11:23:41-----------
+AT-2013-11-18: no data from Spotify-WS!!!
+./data/de/spotify_toplist_for_DE_2013_11_12.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_11_12
+get json and write to txt
+get json and write to txt
+-----------2013-11-18 11:24:08-----------
+./data/ch/spotify_toplist_for_CH_2013_11_17.gz created
+unzip to ./data/ch/spotify_toplist_for_CH_2013_11_17
+-----------2013-11-18 11:24:17-----------
+-----------2013-11-18 11:24:25-----------
+get json and write to txt
+./data/es/spotify_toplist_for_ES_2013_11_15.gz created
+./data/fr/spotify_toplist_for_FR_2013_11_13.gz created
+get json and write to txt
+unzip to ./data/es/spotify_toplist_for_ES_2013_11_15
+unzip to ./data/fr/spotify_toplist_for_FR_2013_11_13
+-----------2013-11-18 11:24:47-----------
+-----------2013-11-18 11:24:53-----------
+CH-2013-11-18: no data from Spotify-WS!!!
+./data/de/spotify_toplist_for_DE_2013_11_13.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_11_13
+get json and write to txt
+-----------2013-11-18 11:25:31-----------
+./data/fr/spotify_toplist_for_FR_2013_11_14.gz created
+get json and write to txt
+unzip to ./data/fr/spotify_toplist_for_FR_2013_11_14
+get json and write to txt
+-----------2013-11-18 11:26:12-----------
+get json and write to txt
+-----------2013-11-18 11:26:18-----------
+-----------2013-11-18 11:26:23-----------
+./data/es/spotify_toplist_for_ES_2013_11_16.gz created
+unzip to ./data/es/spotify_toplist_for_ES_2013_11_16
+./data/de/spotify_toplist_for_DE_2013_11_14.gz created
+./data/fr/spotify_toplist_for_FR_2013_11_15.gz created
+unzip to ./data/fr/spotify_toplist_for_FR_2013_11_15
+unzip to ./data/de/spotify_toplist_for_DE_2013_11_14
+get json and write to txt
+-----------2013-11-18 11:27:35-----------
+get json and write to txt
+get json and write to txt
+./data/fr/spotify_toplist_for_FR_2013_11_16.gz created
+unzip to ./data/fr/spotify_toplist_for_FR_2013_11_16
+-----------2013-11-18 11:27:49-----------
+-----------2013-11-18 11:27:53-----------
+./data/es/spotify_toplist_for_ES_2013_11_17.gz created
+unzip to ./data/es/spotify_toplist_for_ES_2013_11_17
+./data/de/spotify_toplist_for_DE_2013_11_15.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_11_15
+get json and write to txt
+-----------2013-11-18 11:28:53-----------
+./data/fr/spotify_toplist_for_FR_2013_11_17.gz created
+unzip to ./data/fr/spotify_toplist_for_FR_2013_11_17
+get json and write to txt
+get json and write to txt
+-----------2013-11-18 11:29:19-----------
+ES-2013-11-18: no data from Spotify-WS!!!
+-----------2013-11-18 11:29:32-----------
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_11_16.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_11_16
+-----------2013-11-18 11:30:10-----------
+FR-2013-11-18: no data from Spotify-WS!!!
+get json and write to txt
+-----------2013-11-18 11:31:16-----------
+./data/de/spotify_toplist_for_DE_2013_11_17.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_11_17
+get json and write to txt
+-----------2013-11-18 11:33:40-----------
+DE-2013-11-18: no data from Spotify-WS!!!
+-----------2013-11-21 15:18:18-----------
+./data/at/spotify_toplist_for_AT_2013_11_17.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_17
+get json and write to txt
+-----------2013-11-21 15:18:32-----------
+./data/be/spotify_toplist_for_BE_2013_11_17.gz created
+unzip to ./data/be/spotify_toplist_for_BE_2013_11_17
+-----------2013-11-21 15:18:44-----------
+./data/at/spotify_toplist_for_AT_2013_11_18.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_18
+get json and write to txt
+-----------2013-11-21 15:18:59-----------
+get json and write to txt
+./data/ch/spotify_toplist_for_CH_2013_11_18.gz created
+unzip to ./data/ch/spotify_toplist_for_CH_2013_11_18
+get json and write to txt
+-----------2013-11-21 15:27:32-----------
+./data/at/spotify_toplist_for_AT_2013_11_19.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_19
+get json and write to txt
+-----------2013-11-21 15:27:52-----------
+./data/be/spotify_toplist_for_BE_2013_11_18.gz created
+unzip to ./data/be/spotify_toplist_for_BE_2013_11_18
+-----------2013-11-21 15:28:09-----------
+./data/ch/spotify_toplist_for_CH_2013_11_19.gz created
+unzip to ./data/ch/spotify_toplist_for_CH_2013_11_19
+get json and write to txt
+-----------2013-11-21 15:28:34-----------
+get json and write to txt
+-----------2013-11-21 15:28:39-----------
+AT-2013-11-20: no data from Spotify-WS!!!
+-----------2013-11-21 15:28:45-----------
+./data/de/spotify_toplist_for_DE_2013_11_17.gz created
+-----------2013-11-21 15:28:50-----------
+CH-2013-11-20: no data from Spotify-WS!!!
+unzip to ./data/de/spotify_toplist_for_DE_2013_11_17
+./data/be/spotify_toplist_for_BE_2013_11_19.gz created
+unzip to ./data/be/spotify_toplist_for_BE_2013_11_19
+get json and write to txt
+-----------2013-11-21 15:29:15-----------
+-----------2013-11-21 15:29:24-----------
+BE-2013-11-20: no data from Spotify-WS!!!
+./data/es/spotify_toplist_for_ES_2013_11_18.gz created
+unzip to ./data/es/spotify_toplist_for_ES_2013_11_18
+get json and write to txt
+-----------2013-11-21 15:30:05-----------
+-----------2013-11-21 15:30:12-----------
+./data/fr/spotify_toplist_for_FR_2013_11_18.gz created
+unzip to ./data/fr/spotify_toplist_for_FR_2013_11_18
+./data/de/spotify_toplist_for_DE_2013_11_18.gz created
+get json and write to txt
+-----------2013-11-21 15:30:34-----------
+IT-2013-11-17: no data from Spotify-WS!!!
+unzip to ./data/de/spotify_toplist_for_DE_2013_11_18
+-----------2013-11-21 15:30:38-----------
+IT-2013-11-18: no data from Spotify-WS!!!
+-----------2013-11-21 15:30:41-----------
+IT-2013-11-19: no data from Spotify-WS!!!
+-----------2013-11-21 15:30:44-----------
+IT-2013-11-20: no data from Spotify-WS!!!
+get json and write to txt
+-----------2013-11-21 15:31:00-----------
+-----------2013-11-21 15:31:05-----------
+-----------2013-11-21 15:31:09-----------
+./data/nl/spotify_toplist_for_NL_2013_11_17.gz created
+unzip to ./data/nl/spotify_toplist_for_NL_2013_11_17
+./data/fr/spotify_toplist_for_FR_2013_11_19.gz created
+unzip to ./data/fr/spotify_toplist_for_FR_2013_11_19
+get json and write to txt
+./data/es/spotify_toplist_for_ES_2013_11_19.gz created
+unzip to ./data/es/spotify_toplist_for_ES_2013_11_19
+get json and write to txt
+get json and write to txt
+-----------2013-11-21 15:32:17-----------
+PT-2013-11-17: no data from Spotify-WS!!!
+-----------2013-11-21 15:32:21-----------
+PT-2013-11-18: no data from Spotify-WS!!!
+-----------2013-11-21 15:32:26-----------
+-----------2013-11-21 15:32:30-----------
+FR-2013-11-20: no data from Spotify-WS!!!
+./data/nl/spotify_toplist_for_NL_2013_11_18.gz created
+unzip to ./data/nl/spotify_toplist_for_NL_2013_11_18
+get json and write to txt
+-----------2013-11-21 15:32:52-----------
+ES-2013-11-20: no data from Spotify-WS!!!
+-----------2013-11-21 15:33:00-----------
+./data/de/spotify_toplist_for_DE_2013_11_19.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_11_19
+get json and write to txt
+-----------2013-11-21 15:33:38-----------
+./data/nl/spotify_toplist_for_NL_2013_11_19.gz created
+unzip to ./data/nl/spotify_toplist_for_NL_2013_11_19
+-----------2013-11-21 15:33:56-----------
+PT-2013-11-19: no data from Spotify-WS!!!
+get json and write to txt
+-----------2013-11-21 15:34:20-----------
+DE-2013-11-20: no data from Spotify-WS!!!
+get json and write to txt
+-----------2013-11-21 15:34:50-----------
+NL-2013-11-20: no data from Spotify-WS!!!
+-----------2013-11-22 10:04:48-----------
+AT-2013-11-20: no data from Spotify-WS!!!
+-----------2013-11-22 10:04:56-----------
+CH-2013-11-20: no data from Spotify-WS!!!
+-----------2013-11-22 10:04:59-----------
+./data/de/spotify_toplist_for_DE_2013_11_20.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_11_20
+-----------2013-11-22 10:05:58-----------
+BE-2013-11-20: no data from Spotify-WS!!!
+-----------2013-11-22 10:06:06-----------
+NL-2013-11-20: no data from Spotify-WS!!!
+-----------2013-11-22 10:06:09-----------
+FR-2013-11-20: no data from Spotify-WS!!!
+-----------2013-11-22 10:06:13-----------
+IT-2013-11-20: no data from Spotify-WS!!!
+get json and write to txt
+-----------2013-11-22 10:06:15-----------
+ES-2013-11-20: no data from Spotify-WS!!!
+-----------2013-11-22 10:06:17-----------
+PT-2013-11-20: no data from Spotify-WS!!!
+-----------2013-11-22 10:16:47-----------
+./data/at/spotify_toplist_for_AT_2013_11_20.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_20
+get json and write to txt
+-----------2013-11-22 10:17:02-----------
+CH-2013-11-20: no data from Spotify-WS!!!
+-----------2013-11-22 10:17:11-----------
+BE-2013-11-20: no data from Spotify-WS!!!
+-----------2013-11-22 10:17:14-----------
+NL-2013-11-20: no data from Spotify-WS!!!
+-----------2013-11-22 10:17:16-----------
+FR-2013-11-20: no data from Spotify-WS!!!
+-----------2013-11-22 10:17:18-----------
+IT-2013-11-20: no data from Spotify-WS!!!
+-----------2013-11-22 10:17:20-----------
+ES-2013-11-20: no data from Spotify-WS!!!
+-----------2013-11-22 10:17:22-----------
+PT-2013-11-20: no data from Spotify-WS!!!
+-----------2013-11-22 12:25:25-----------
+./data/ch/spotify_toplist_for_CH_2013_11_20.gz created
+unzip to ./data/ch/spotify_toplist_for_CH_2013_11_20
+-----------2013-11-22 12:25:41-----------
+./data/be/spotify_toplist_for_BE_2013_11_20.gz created
+unzip to ./data/be/spotify_toplist_for_BE_2013_11_20
+get json and write to txt
+-----------2013-11-22 12:25:54-----------
+-----------2013-11-22 12:26:10-----------
+get json and write to txt
+./data/nl/spotify_toplist_for_NL_2013_11_20.gz created
+unzip to ./data/nl/spotify_toplist_for_NL_2013_11_20
+./data/es/spotify_toplist_for_ES_2013_11_20.gz created
+-----------2013-11-22 12:26:32-----------
+unzip to ./data/es/spotify_toplist_for_ES_2013_11_20
+./data/fr/spotify_toplist_for_FR_2013_11_20.gz created
+unzip to ./data/fr/spotify_toplist_for_FR_2013_11_20
+get json and write to txt
+get json and write to txt
+get json and write to txt
+-----------2013-11-22 17:10:25-----------
+./data/at/spotify_toplist_for_AT_2013_11_17.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_17
+get json and write to txt
+-----------2013-12-02 11:01:15-----------
+AT-2013-11-28: no data from Spotify-WS!!!
+-----------2013-12-02 11:14:13-----------
+./data/at/spotify_toplist_for_AT_2013_11_28.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_28
+get json and write to txt
+-----------2013-12-02 11:15:25-----------
+./data/at/spotify_toplist_for_AT_2013_11_29.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_29
+get json and write to txt
+-----------2013-12-02 11:15:47-----------
+./data/at/spotify_toplist_for_AT_2013_11_30.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_11_30
+get json and write to txt
+-----------2013-12-02 11:16:18-----------
+AT-2013-12-01: no data from Spotify-WS!!!
+-----------2013-12-05 13:39:07-----------
+./data/at/spotify_toplist_for_AT_2013_12_04.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_12_04
+get json and write to txt
+-----------2013-12-05 13:46:19-----------
+./data/ch/spotify_toplist_for_CH_2013_12_04.gz created
+unzip to ./data/ch/spotify_toplist_for_CH_2013_12_04
+get json and write to txt
+-----------2013-12-06 10:43:34-----------
+AT-2013-12-05: no data from Spotify-WS!!!
+-----------2013-12-06 11:02:11-----------
+AT-2013-12-05: no data from Spotify-WS!!!
+-----------2013-12-06 11:02:16-----------
+./data/at/spotify_toplist_for_AT_2013_12_04.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_12_04
+get json and write to txt
+-----------2013-12-06 13:07:24-----------
+AT-2013-12-05: no data from Spotify-WS!!!
+-----------2013-12-06 13:07:33-----------
+CH-2013-12-05: no data from Spotify-WS!!!
+-----------2013-12-06 13:07:39-----------
+BE-2013-12-05: no data from Spotify-WS!!!
+-----------2013-12-06 13:07:48-----------
+IT-2013-12-05: no data from Spotify-WS!!!
+-----------2013-12-06 13:07:51-----------
+IT-2013-12-04: no data from Spotify-WS!!!
+-----------2013-12-09 09:39:33-----------
+AT-2013-12-05: no data from Spotify-WS!!!
+-----------2013-12-09 09:39:41-----------
+AT-2013-12-06: no data from Spotify-WS!!!
+-----------2013-12-09 09:39:45-----------
+./data/at/spotify_toplist_for_AT_2013_12_07.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_12_07
+get json and write to txt
+-----------2013-12-09 09:41:15-----------
+CH-2013-12-05: no data from Spotify-WS!!!
+-----------2013-12-09 09:41:18-----------
+CH-2013-12-06: no data from Spotify-WS!!!
+-----------2013-12-09 09:41:23-----------
+DE-2013-12-06: no data from Spotify-WS!!!
+-----------2013-12-09 09:41:26-----------
+DE-2013-12-05: no data from Spotify-WS!!!
+-----------2013-12-09 09:41:32-----------
+NL-2013-12-05: no data from Spotify-WS!!!
+-----------2013-12-09 09:41:35-----------
+NL-2013-12-06: no data from Spotify-WS!!!
+-----------2013-12-09 09:41:38-----------
+FR-2013-12-06: no data from Spotify-WS!!!
+-----------2013-12-09 09:41:42-----------
+FR-2013-12-05: no data from Spotify-WS!!!
+-----------2013-12-09 09:41:45-----------
+ES-2013-12-05: no data from Spotify-WS!!!
+-----------2013-12-09 09:41:47-----------
+ES-2013-12-06: no data from Spotify-WS!!!
+-----------2013-12-09 09:44:43-----------
+AT-2013-12-05: no data from Spotify-WS!!!
+-----------2013-12-09 09:44:45-----------
+AT-2013-12-05: no data from Spotify-WS!!!
+-----------2013-12-09 10:36:03-----------
+AT-2013-12-05: no data from Spotify-WS!!!
+-----------2013-12-09 10:56:07-----------
+AT-2013-12-05: no data from Spotify-WS!!!
+-----------2013-12-09 11:09:24-----------
+AT-2013-12-05: no data from Spotify-WS!!!
+-----------2013-12-09 13:28:41-----------
+AT-2013-12-05: no data from Spotify-WS!!!
+-----------2013-12-09 13:28:45-----------
+AT-2013-12-06: no data from Spotify-WS!!!
+-----------2013-12-09 14:28:38-----------
+AT-2013-12-06: no data from Spotify-WS!!!
+-----------2013-12-09 14:43:30-----------
+AT-2013-12-06: no data from Spotify-WS!!!
+-----------2013-12-09 14:58:51-----------
+./data/at/spotify_toplist_for_AT_2013_01_01.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_01_01
+get json and write to txt
+-----------2013-12-09 14:59:40-----------
+./data/de/spotify_toplist_for_DE_2013_01_01.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_01
+get json and write to txt
+-----------2013-12-09 15:30:47-----------
+./data/de/spotify_toplist_for_DE_2013_01_02.gz created
+-----------2013-12-09 15:31:00-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_02
+./data/at/spotify_toplist_for_AT_2013_01_03.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_01_03
+get json and write to txt
+-----------2013-12-09 15:31:19-----------
+./data/at/spotify_toplist_for_AT_2013_01_04.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_01_04
+get json and write to txt
+get json and write to txt
+-----------2013-12-09 15:31:51-----------
+-----------2013-12-09 15:31:54-----------
+-----------2013-12-09 15:32:00-----------
+./data/de/spotify_toplist_for_DE_2013_01_03.gz created
+./data/de/spotify_toplist_for_DE_2013_01_04.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_03
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_04
+./data/de/spotify_toplist_for_DE_2013_01_05.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_05
+-----------2013-12-09 15:32:39-----------
+DE-2013-01-06: no data from Spotify-WS!!!
+-----------2013-12-09 15:32:52-----------
+get json and write to txt
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_01_07.gz created
+-----------2013-12-09 15:33:05-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_07
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_01_08.gz created
+-----------2013-12-09 15:33:21-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_08
+-----------2013-12-09 15:33:25-----------
+-----------2013-12-09 15:33:28-----------
+./data/de/spotify_toplist_for_DE_2013_01_09.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_09
+./data/de/spotify_toplist_for_DE_2013_01_11.gz created
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_01_10.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_11
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_10
+get json and write to txt
+-----------2013-12-09 15:34:18-----------
+./data/de/spotify_toplist_for_DE_2013_01_12.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_12
+get json and write to txt
+get json and write to txt
+-----------2013-12-09 15:34:37-----------
+get json and write to txt
+get json and write to txt
+-----------2013-12-09 15:34:44-----------
+./data/de/spotify_toplist_for_DE_2013_01_13.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_13
+-----------2013-12-09 15:34:56-----------
+-----------2013-12-09 15:35:02-----------
+./data/de/spotify_toplist_for_DE_2013_01_14.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_14
+./data/de/spotify_toplist_for_DE_2013_01_15.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_15
+./data/de/spotify_toplist_for_DE_2013_01_16.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_16
+-----------2013-12-09 15:35:35-----------
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_01_17.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_17
+get json and write to txt
+get json and write to txt
+-----------2013-12-09 15:36:16-----------
+-----------2013-12-09 15:36:20-----------
+get json and write to txt
+-----------2013-12-09 15:36:24-----------
+-----------2013-12-09 15:36:29-----------
+./data/de/spotify_toplist_for_DE_2013_01_18.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_18
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_01_21.gz created
+./data/de/spotify_toplist_for_DE_2013_01_20.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_21
+-----------2013-12-09 15:36:57-----------
+./data/de/spotify_toplist_for_DE_2013_01_19.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_20
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_19
+./data/de/spotify_toplist_for_DE_2013_01_22.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_22
+get json and write to txt
+get json and write to txt
+get json and write to txt
+get json and write to txt
+-----------2013-12-09 15:37:57-----------
+-----------2013-12-09 15:38:02-----------
+-----------2013-12-09 15:38:07-----------
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_01_23.gz created
+-----------2013-12-09 15:38:10-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_23
+-----------2013-12-09 15:38:20-----------
+./data/de/spotify_toplist_for_DE_2013_01_24.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_24
+./data/de/spotify_toplist_for_DE_2013_01_27.gz created
+./data/de/spotify_toplist_for_DE_2013_01_26.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_26
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_27
+./data/de/spotify_toplist_for_DE_2013_01_25.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_25
+get json and write to txt
+-----------2013-12-09 15:39:16-----------
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_01_28.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_28
+get json and write to txt
+-----------2013-12-09 15:39:37-----------
+get json and write to txt
+-----------2013-12-09 15:39:43-----------
+get json and write to txt
+-----------2013-12-09 15:39:47-----------
+./data/de/spotify_toplist_for_DE_2013_01_29.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_29
+./data/de/spotify_toplist_for_DE_2013_01_31.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_31
+./data/de/spotify_toplist_for_DE_2013_01_30.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_30
+get json and write to txt
+get json and write to txt
+get json and write to txt
+get json and write to txt
+-----------2013-12-09 15:42:06-----------
+./data/de/spotify_toplist_for_DE_2013_01_06.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_06
+-----------2013-12-09 15:42:40-----------
+./data/de/spotify_toplist_for_DE_2013_01_12.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_12
+get json and write to txt
+get json and write to txt
+-----------2013-12-10 09:42:22-----------
+./data/at/spotify_toplist_for_AT_2013_12_05.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_12_05
+get json and write to txt
+-----------2013-12-10 10:01:01-----------
+./data/fr/spotify_toplist_for_FR_2013_12_05.gz created
+unzip to ./data/fr/spotify_toplist_for_FR_2013_12_05
+get json and write to txt
+-----------2013-12-10 14:08:59-----------
+ES-2013-12-08: no data from Spotify-WS!!!
+-----------2013-12-10 14:09:03-----------
+ES-2013-12-08: no data from Spotify-WS!!!
+-----------2013-12-10 14:09:33-----------
+ES-2013-12-08: no data from Spotify-WS!!!
+-----------2013-12-10 14:10:16-----------
+ES-2013-12-08: no data from Spotify-WS!!!
+-----------2013-12-10 14:21:23-----------
+ES-2013-12-08: no data from Spotify-WS!!!
+-----------2013-12-10 14:21:31-----------
+./data/es/spotify_toplist_for_ES_2013_12_07.gz created
+unzip to ./data/es/spotify_toplist_for_ES_2013_12_07
+get json and write to txt
+-----------2013-12-10 14:52:48-----------
+ES-2013-12-08: no data from Spotify-WS!!!
+-----------2013-12-10 15:03:39-----------
+ES-2013-12-08: no data from Spotify-WS!!!
+-----------2013-12-12 17:30:03-----------
+IT-2013-12-01: no data from Spotify-WS!!!
+-----------2013-12-12 17:30:07-----------
+IT-2013-12-02: no data from Spotify-WS!!!
+-----------2013-12-12 17:30:10-----------
+IT-2013-12-03: no data from Spotify-WS!!!
+-----------2013-12-12 17:30:13-----------
+IT-2013-12-04: no data from Spotify-WS!!!
+-----------2013-12-12 17:30:16-----------
+IT-2013-12-05: no data from Spotify-WS!!!
+-----------2013-12-12 17:30:19-----------
+IT-2013-12-06: no data from Spotify-WS!!!
+-----------2013-12-12 17:30:22-----------
+IT-2013-12-07: no data from Spotify-WS!!!
+-----------2013-12-12 17:30:25-----------
+IT-2013-12-08: no data from Spotify-WS!!!
+-----------2013-12-12 17:30:28-----------
+IT-2013-12-09: no data from Spotify-WS!!!
+-----------2013-12-12 17:30:32-----------
+IT-2013-12-10: no data from Spotify-WS!!!
+-----------2013-12-12 17:30:35-----------
+./data/at/spotify_toplist_for_AT_2013_12_10.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_12_10
+get json and write to txt
+-----------2013-12-12 17:38:15-----------
+IT-2013-12-07: no data from Spotify-WS!!!
+-----------2013-12-16 09:23:35-----------
+./data/at/spotify_toplist_for_AT_2013_12_13.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_12_13
+get json and write to txt
+-----------2013-12-17 13:31:55-----------
+IT-2013-12-01: no data from Spotify-WS!!!
+-----------2013-12-17 13:31:59-----------
+IT-2013-12-02: no data from Spotify-WS!!!
+-----------2013-12-17 13:32:01-----------
+IT-2013-12-03: no data from Spotify-WS!!!
+-----------2013-12-17 13:32:03-----------
+IT-2013-12-04: no data from Spotify-WS!!!
+-----------2013-12-17 13:32:06-----------
+IT-2013-12-05: no data from Spotify-WS!!!
+-----------2013-12-17 13:32:11-----------
+IT-2013-12-06: no data from Spotify-WS!!!
+-----------2013-12-17 13:32:14-----------
+IT-2013-12-07: no data from Spotify-WS!!!
+-----------2013-12-17 13:32:18-----------
+IT-2013-12-08: no data from Spotify-WS!!!
+-----------2013-12-17 13:32:21-----------
+IT-2013-12-09: no data from Spotify-WS!!!
+-----------2013-12-17 13:32:24-----------
+IT-2013-12-10: no data from Spotify-WS!!!
+-----------2013-12-17 13:32:27-----------
+IT-2013-12-11: no data from Spotify-WS!!!
+-----------2013-12-17 13:32:30-----------
+IT-2013-12-12: no data from Spotify-WS!!!
+-----------2013-12-17 13:32:32-----------
+IT-2013-12-13: no data from Spotify-WS!!!
+-----------2013-12-17 13:33:08-----------
+./data/at/spotify_toplist_for_AT_2013_12_13.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2013_12_13
+get json and write to txt
+-----------2013-12-17 14:41:31-----------
+IT-2013-12-13: no data from Spotify-WS!!!
+-----------2013-12-19 09:56:39-----------
+IT-2013-12-06: no data from Spotify-WS!!!
+-----------2013-12-19 11:31:24-----------
+IT-2013-12-06: no data from Spotify-WS!!!
+-----------2013-12-23 14:30:18-----------
+IT-2013-12-21: no data from Spotify-WS!!!
+-----------2013-12-27 13:10:33-----------
+IT-2013-12-01: no data from Spotify-WS!!!
+-----------2013-12-27 13:11:27-----------
+IT-2013-12-20: no data from Spotify-WS!!!
+-----------2013-12-27 13:11:31-----------
+IT-2013-12-21: no data from Spotify-WS!!!
+-----------2013-12-27 13:11:34-----------
+./data/it/spotify_toplist_for_IT_2013_12_22.gz created
+unzip to ./data/it/spotify_toplist_for_IT_2013_12_22
+get json and write to txt
+-----------2013-12-27 14:45:03-----------
+./data/de/spotify_toplist_for_DE_2013_01_01.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_01
+get json and write to txt
+-----------2013-12-27 14:47:29-----------
+./data/de/spotify_toplist_for_DE_2012_12_28.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2012_12_28
+-----------2013-12-27 14:47:46-----------
+./data/at/spotify_toplist_for_AT_2012_12_29.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2012_12_29
+get json and write to txt
+get json and write to txt
+-----------2013-12-27 14:48:35-----------
+-----------2013-12-27 14:48:41-----------
+./data/de/spotify_toplist_for_DE_2012_12_29.gz created
+-----------2013-12-27 14:48:50-----------
+unzip to ./data/de/spotify_toplist_for_DE_2012_12_29
+-----------2013-12-27 14:49:04-----------
+./data/de/spotify_toplist_for_DE_2012_12_31.gz created
+./data/de/spotify_toplist_for_DE_2012_12_30.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2012_12_31
+unzip to ./data/de/spotify_toplist_for_DE_2012_12_30
+./data/de/spotify_toplist_for_DE_2013_01_02.gz created
+-----------2013-12-27 14:49:17-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_02
+./data/de/spotify_toplist_for_DE_2013_01_03.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_03
+-----------2013-12-27 14:49:31-----------
+get json and write to txt
+-----------2013-12-27 14:49:44-----------
+./data/de/spotify_toplist_for_DE_2013_01_04.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_04
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_01_05.gz created
+get json and write to txt
+-----------2013-12-27 14:49:57-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_05
+get json and write to txt
+-----------2013-12-27 14:50:08-----------
+./data/de/spotify_toplist_for_DE_2013_01_06.gz created
+get json and write to txt
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_06
+-----------2013-12-27 14:50:18-----------
+./data/de/spotify_toplist_for_DE_2013_01_07.gz created
+-----------2013-12-27 14:50:23-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_07
+get json and write to txt
+-----------2013-12-27 14:50:30-----------
+./data/de/spotify_toplist_for_DE_2013_01_09.gz created
+./data/de/spotify_toplist_for_DE_2013_01_08.gz created
+get json and write to txt
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_08
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_09
+-----------2013-12-27 14:50:49-----------
+./data/de/spotify_toplist_for_DE_2013_01_10.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_10
+get json and write to txt
+-----------2013-12-27 14:50:58-----------
+./data/de/spotify_toplist_for_DE_2013_01_11.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_11
+get json and write to txt
+-----------2013-12-27 14:51:07-----------
+./data/de/spotify_toplist_for_DE_2013_01_12.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_12
+./data/de/spotify_toplist_for_DE_2013_01_13.gz created
+get json and write to txt
+-----------2013-12-27 14:51:30-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_13
+get json and write to txt
+-----------2013-12-27 14:51:34-----------
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_01_14.gz created
+-----------2013-12-27 14:51:43-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_14
+get json and write to txt
+-----------2013-12-27 14:51:53-----------
+./data/de/spotify_toplist_for_DE_2013_01_15.gz created
+./data/de/spotify_toplist_for_DE_2013_01_16.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_15
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_16
+get json and write to txt
+-----------2013-12-27 14:52:08-----------
+./data/de/spotify_toplist_for_DE_2013_01_17.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_17
+get json and write to txt
+-----------2013-12-27 14:52:19-----------
+./data/de/spotify_toplist_for_DE_2013_01_18.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_18
+./data/de/spotify_toplist_for_DE_2013_01_19.gz created
+get json and write to txt
+-----------2013-12-27 14:52:36-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_19
+./data/de/spotify_toplist_for_DE_2013_01_20.gz created
+get json and write to txt
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_20
+get json and write to txt
+get json and write to txt
+get json and write to txt
+get json and write to txt
+get json and write to txt
+-----------2013-12-27 14:54:23-----------
+-----------2013-12-27 14:54:31-----------
+-----------2013-12-27 14:54:36-----------
+./data/de/spotify_toplist_for_DE_2013_01_21.gz created
+-----------2013-12-27 14:54:40-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_21
+-----------2013-12-27 14:54:45-----------
+-----------2013-12-27 14:54:50-----------
+./data/de/spotify_toplist_for_DE_2013_01_23.gz created
+./data/de/spotify_toplist_for_DE_2013_01_22.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_23
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_22
+./data/de/spotify_toplist_for_DE_2013_01_26.gz created
+./data/de/spotify_toplist_for_DE_2013_01_24.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_26
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_24
+./data/de/spotify_toplist_for_DE_2013_01_25.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_25
+get json and write to txt
+-----------2013-12-27 14:55:33-----------
+./data/de/spotify_toplist_for_DE_2013_01_27.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_27
+get json and write to txt
+-----------2013-12-27 14:56:03-----------
+get json and write to txt
+get json and write to txt
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_01_28.gz created
+-----------2013-12-27 14:56:14-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_28
+get json and write to txt
+-----------2013-12-27 14:56:26-----------
+./data/de/spotify_toplist_for_DE_2013_01_29.gz created
+-----------2013-12-27 14:56:32-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_29
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_01_30.gz created
+./data/de/spotify_toplist_for_DE_2013_01_31.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_30
+unzip to ./data/de/spotify_toplist_for_DE_2013_01_31
+get json and write to txt
+get json and write to txt
+get json and write to txt
+get json and write to txt
+-----------2013-12-27 15:20:22-----------
+can not open spotify_toplist_for_DE_2013_02_01.gz
+-----------2013-12-27 15:26:11-----------
+can not open spotify_toplist_for_DE_2013_02_01.gz
+-----------2013-12-27 15:27:41-----------
+can not open spotify_toplist_for_DE_2013_02_01.gz
+-----------2013-12-27 15:30:29-----------
+./data/de/spotify_toplist_for_DE_2013_02_01.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_01
+get json and write to txt
+-----------2013-12-27 15:51:55-----------
+./data/de/spotify_toplist_for_DE_2013_02_02.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_02
+-----------2013-12-27 15:52:12-----------
+./data/de/spotify_toplist_for_DE_2013_02_03.gz created
+-----------2013-12-27 15:52:28-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_03
+./data/de/spotify_toplist_for_DE_2013_02_04.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_04
+-----------2013-12-27 15:52:45-----------
+./data/de/spotify_toplist_for_DE_2013_02_05.gz created
+-----------2013-12-27 15:53:00-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_05
+get json and write to txt
+-----------2013-12-27 15:53:11-----------
+./data/de/spotify_toplist_for_DE_2013_02_06.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_06
+-----------2013-12-27 15:53:17-----------
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_02_07.gz created
+-----------2013-12-27 15:53:29-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_07
+get json and write to txt
+-----------2013-12-27 15:53:35-----------
+./data/de/spotify_toplist_for_DE_2013_02_08.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_08
+./data/de/spotify_toplist_for_DE_2013_02_09.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_09
+get json and write to txt
+-----------2013-12-27 15:53:52-----------
+./data/de/spotify_toplist_for_DE_2013_02_10.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_10
+get json and write to txt
+-----------2013-12-27 15:54:06-----------
+./data/de/spotify_toplist_for_DE_2013_02_11.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_11
+./data/de/spotify_toplist_for_DE_2013_02_12.gz created
+get json and write to txt
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_12
+-----------2013-12-27 15:54:27-----------
+get json and write to txt
+-----------2013-12-27 15:54:34-----------
+./data/de/spotify_toplist_for_DE_2013_02_13.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_13
+get json and write to txt
+-----------2013-12-27 15:54:47-----------
+get json and write to txt
+-----------2013-12-27 15:54:52-----------
+./data/de/spotify_toplist_for_DE_2013_02_14.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_14
+get json and write to txt
+-----------2013-12-27 15:55:00-----------
+./data/de/spotify_toplist_for_DE_2013_02_15.gz created
+./data/de/spotify_toplist_for_DE_2013_02_16.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_15
+get json and write to txt
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_16
+./data/de/spotify_toplist_for_DE_2013_02_17.gz created
+-----------2013-12-27 15:55:27-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_17
+get json and write to txt
+-----------2013-12-27 15:55:32-----------
+./data/de/spotify_toplist_for_DE_2013_02_18.gz created
+get json and write to txt
+-----------2013-12-27 15:55:45-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_18
+./data/de/spotify_toplist_for_DE_2013_02_19.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_19
+./data/de/spotify_toplist_for_DE_2013_02_20.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_20
+get json and write to txt
+-----------2013-12-27 15:56:07-----------
+get json and write to txt
+-----------2013-12-27 15:56:16-----------
+./data/de/spotify_toplist_for_DE_2013_02_21.gz created
+get json and write to txt
+-----------2013-12-27 15:56:21-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_21
+./data/de/spotify_toplist_for_DE_2013_02_22.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_22
+get json and write to txt
+-----------2013-12-27 15:56:35-----------
+./data/de/spotify_toplist_for_DE_2013_02_23.gz created
+get json and write to txt
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_23
+-----------2013-12-27 15:56:43-----------
+./data/de/spotify_toplist_for_DE_2013_02_24.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_24
+get json and write to txt
+-----------2013-12-27 15:56:55-----------
+./data/de/spotify_toplist_for_DE_2013_02_25.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_25
+get json and write to txt
+-----------2013-12-27 15:57:11-----------
+./data/de/spotify_toplist_for_DE_2013_02_26.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_26
+get json and write to txt
+-----------2013-12-27 15:57:24-----------
+./data/de/spotify_toplist_for_DE_2013_02_27.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_27
+./data/de/spotify_toplist_for_DE_2013_02_28.gz created
+get json and write to txt
+-----------2013-12-27 15:57:37-----------
+DE-2013-02-29: no data from Spotify-WS!!!
+unzip to ./data/de/spotify_toplist_for_DE_2013_02_28
+-----------2013-12-27 15:57:42-----------
+DE-2013-02-30: no data from Spotify-WS!!!
+-----------2013-12-27 15:57:46-----------
+DE-2013-02-31: no data from Spotify-WS!!!
+get json and write to txt
+-----------2013-12-27 15:57:52-----------
+get json and write to txt
+-----------2013-12-27 15:58:00-----------
+-----------2013-12-27 15:58:06-----------
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_03_01.gz created
+-----------2013-12-27 15:58:13-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_01
+get json and write to txt
+-----------2013-12-27 15:58:19-----------
+./data/de/spotify_toplist_for_DE_2013_03_02.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_02
+get json and write to txt
+-----------2013-12-27 15:58:33-----------
+./data/de/spotify_toplist_for_DE_2013_03_03.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_03
+./data/de/spotify_toplist_for_DE_2013_03_05.gz created
+./data/de/spotify_toplist_for_DE_2013_03_04.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_05
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_04
+./data/de/spotify_toplist_for_DE_2013_03_06.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_06
+get json and write to txt
+-----------2013-12-27 15:59:05-----------
+./data/de/spotify_toplist_for_DE_2013_03_07.gz created
+get json and write to txt
+-----------2013-12-27 15:59:24-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_07
+get json and write to txt
+get json and write to txt
+-----------2013-12-27 15:59:35-----------
+./data/de/spotify_toplist_for_DE_2013_03_08.gz created
+get json and write to txt
+-----------2013-12-27 15:59:39-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_08
+-----------2013-12-27 15:59:46-----------
+get json and write to txt
+-----------2013-12-27 15:59:51-----------
+./data/de/spotify_toplist_for_DE_2013_03_09.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_09
+./data/de/spotify_toplist_for_DE_2013_03_10.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_10
+./data/de/spotify_toplist_for_DE_2013_03_11.gz created
+./data/de/spotify_toplist_for_DE_2013_03_12.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_11
+get json and write to txt
+-----------2013-12-27 16:00:17-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_12
+get json and write to txt
+-----------2013-12-27 16:00:29-----------
+./data/de/spotify_toplist_for_DE_2013_03_13.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_13
+./data/de/spotify_toplist_for_DE_2013_03_14.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_14
+get json and write to txt
+-----------2013-12-27 16:00:50-----------
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_03_15.gz created
+get json and write to txt
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_15
+get json and write to txt
+-----------2013-12-27 16:01:15-----------
+-----------2013-12-27 16:01:19-----------
+get json and write to txt
+-----------2013-12-27 16:01:23-----------
+-----------2013-12-27 16:01:28-----------
+./data/de/spotify_toplist_for_DE_2013_03_16.gz created
+get json and write to txt
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_16
+-----------2013-12-27 16:01:39-----------
+./data/de/spotify_toplist_for_DE_2013_03_18.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_18
+./data/de/spotify_toplist_for_DE_2013_03_17.gz created
+get json and write to txt
+-----------2013-12-27 16:01:54-----------
+./data/de/spotify_toplist_for_DE_2013_03_19.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_17
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_19
+./data/de/spotify_toplist_for_DE_2013_03_20.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_20
+./data/de/spotify_toplist_for_DE_2013_03_21.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_21
+get json and write to txt
+-----------2013-12-27 16:02:37-----------
+get json and write to txt
+get json and write to txt
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_03_22.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_22
+get json and write to txt
+get json and write to txt
+get json and write to txt
+-----------2013-12-27 16:04:44-----------
+-----------2013-12-27 16:04:52-----------
+-----------2013-12-27 16:04:56-----------
+./data/de/spotify_toplist_for_DE_2013_03_23.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_23
+-----------2013-12-27 16:05:09-----------
+-----------2013-12-27 16:05:13-----------
+./data/de/spotify_toplist_for_DE_2013_03_25.gz created
+./data/de/spotify_toplist_for_DE_2013_03_24.gz created
+-----------2013-12-27 16:05:18-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_25
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_24
+./data/de/spotify_toplist_for_DE_2013_03_27.gz created
+./data/de/spotify_toplist_for_DE_2013_03_26.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_27
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_26
+./data/de/spotify_toplist_for_DE_2013_03_28.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_28
+get json and write to txt
+-----------2013-12-27 16:05:59-----------
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_03_29.gz created
+get json and write to txt
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_29
+get json and write to txt
+get json and write to txt
+get json and write to txt
+-----------2013-12-27 16:06:46-----------
+-----------2013-12-27 16:06:51-----------
+./data/de/spotify_toplist_for_DE_2013_03_30.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_30
+./data/de/spotify_toplist_for_DE_2013_03_31.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_03_31
+get json and write to txt
+get json and write to txt
+get json and write to txt
+-----------2013-12-27 16:27:47-----------
+-----------2013-12-27 16:27:53-----------
+./data/de/spotify_toplist_for_DE_2013_04_01.gz created
+-----------2013-12-27 16:28:01-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_01
+./data/de/spotify_toplist_for_DE_2013_04_02.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_02
+-----------2013-12-27 16:28:15-----------
+./data/de/spotify_toplist_for_DE_2013_04_03.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_03
+-----------2013-12-27 16:28:25-----------
+./data/de/spotify_toplist_for_DE_2013_04_04.gz created
+-----------2013-12-27 16:28:36-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_04
+./data/de/spotify_toplist_for_DE_2013_04_05.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_05
+get json and write to txt
+-----------2013-12-27 16:28:53-----------
+./data/de/spotify_toplist_for_DE_2013_04_06.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_06
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_04_07.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_07
+-----------2013-12-27 16:29:13-----------
+get json and write to txt
+-----------2013-12-27 16:29:16-----------
+./data/de/spotify_toplist_for_DE_2013_04_08.gz created
+get json and write to txt
+-----------2013-12-27 16:29:28-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_08
+./data/de/spotify_toplist_for_DE_2013_04_09.gz created
+get json and write to txt
+-----------2013-12-27 16:29:41-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_09
+./data/de/spotify_toplist_for_DE_2013_04_10.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_10
+get json and write to txt
+-----------2013-12-27 16:29:53-----------
+./data/de/spotify_toplist_for_DE_2013_04_11.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_11
+get json and write to txt
+-----------2013-12-27 16:30:06-----------
+./data/de/spotify_toplist_for_DE_2013_04_12.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_12
+get json and write to txt
+-----------2013-12-27 16:30:19-----------
+./data/de/spotify_toplist_for_DE_2013_04_13.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_13
+./data/de/spotify_toplist_for_DE_2013_04_15.gz created
+get json and write to txt
+-----------2013-12-27 16:30:32-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_15
+get json and write to txt
+-----------2013-12-27 16:30:39-----------
+./data/de/spotify_toplist_for_DE_2013_04_16.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_16
+get json and write to txt
+-----------2013-12-27 16:30:50-----------
+./data/de/spotify_toplist_for_DE_2013_04_17.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_17
+get json and write to txt
+-----------2013-12-27 16:31:02-----------
+./data/de/spotify_toplist_for_DE_2013_04_18.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_18
+./data/de/spotify_toplist_for_DE_2013_04_19.gz created
+get json and write to txt
+-----------2013-12-27 16:31:19-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_19
+get json and write to txt
+-----------2013-12-27 16:31:22-----------
+get json and write to txt
+-----------2013-12-27 16:31:36-----------
+./data/de/spotify_toplist_for_DE_2013_04_20.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_20
+./data/de/spotify_toplist_for_DE_2013_04_14.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_14
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_04_21.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_21
+get json and write to txt
+-----------2013-12-27 16:32:09-----------
+get json and write to txt
+-----------2013-12-27 16:32:14-----------
+-----------2013-12-27 16:32:18-----------
+./data/de/spotify_toplist_for_DE_2013_04_22.gz created
+get json and write to txt
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_22
+-----------2013-12-27 16:32:34-----------
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_04_23.gz created
+./data/de/spotify_toplist_for_DE_2013_04_24.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_23
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_24
+-----------2013-12-27 16:32:44-----------
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_04_25.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_25
+-----------2013-12-27 16:32:57-----------
+./data/de/spotify_toplist_for_DE_2013_04_26.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_26
+./data/de/spotify_toplist_for_DE_2013_04_27.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_27
+get json and write to txt
+-----------2013-12-27 16:33:24-----------
+get json and write to txt
+-----------2013-12-27 16:33:29-----------
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_04_29.gz created
+get json and write to txt
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_29
+./data/de/spotify_toplist_for_DE_2013_04_28.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_28
+-----------2013-12-27 16:33:56-----------
+get json and write to txt
+-----------2013-12-27 16:34:03-----------
+DE-2013-04-31: no data from Spotify-WS!!!
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_04_30.gz created
+-----------2013-12-27 16:34:09-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_04_30
+-----------2013-12-27 16:34:14-----------
+-----------2013-12-27 16:34:20-----------
+./data/de/spotify_toplist_for_DE_2013_05_01.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_01
+get json and write to txt
+-----------2013-12-27 16:34:32-----------
+./data/de/spotify_toplist_for_DE_2013_05_02.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_02
+get json and write to txt
+-----------2013-12-27 16:34:41-----------
+./data/de/spotify_toplist_for_DE_2013_05_03.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_03
+./data/de/spotify_toplist_for_DE_2013_05_04.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_04
+./data/de/spotify_toplist_for_DE_2013_05_05.gz created
+get json and write to txt
+-----------2013-12-27 16:35:02-----------
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_05
+./data/de/spotify_toplist_for_DE_2013_05_06.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_06
+get json and write to txt
+-----------2013-12-27 16:35:21-----------
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_05_07.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_07
+get json and write to txt
+get json and write to txt
+get json and write to txt
+get json and write to txt
+get json and write to txt
+-----------2013-12-27 16:39:16-----------
+-----------2013-12-27 16:39:20-----------
+-----------2013-12-27 16:39:24-----------
+-----------2013-12-27 16:39:27-----------
+-----------2013-12-27 16:39:30-----------
+-----------2013-12-27 16:39:34-----------
+./data/de/spotify_toplist_for_DE_2013_05_08.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_08
+./data/de/spotify_toplist_for_DE_2013_05_11.gz created
+./data/de/spotify_toplist_for_DE_2013_05_10.gz created
+./data/de/spotify_toplist_for_DE_2013_05_09.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_11
+./data/de/spotify_toplist_for_DE_2013_05_12.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_10
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_09
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_12
+./data/de/spotify_toplist_for_DE_2013_05_13.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_13
+get json and write to txt
+-----------2013-12-27 16:40:36-----------
+./data/de/spotify_toplist_for_DE_2013_05_14.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_14
+get json and write to txt
+-----------2013-12-27 16:40:58-----------
+get json and write to txt
+get json and write to txt
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_05_15.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_15
+get json and write to txt
+get json and write to txt
+get json and write to txt
+-----------2013-12-27 16:47:27-----------
+-----------2013-12-27 16:47:30-----------
+-----------2013-12-27 16:47:34-----------
+-----------2013-12-27 16:47:41-----------
+-----------2013-12-27 16:47:44-----------
+-----------2013-12-27 16:47:49-----------
+./data/de/spotify_toplist_for_DE_2013_05_16.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_16
+./data/de/spotify_toplist_for_DE_2013_05_18.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_18
+./data/de/spotify_toplist_for_DE_2013_05_17.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_17
+./data/de/spotify_toplist_for_DE_2013_05_21.gz created
+./data/de/spotify_toplist_for_DE_2013_05_20.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_21
+./data/de/spotify_toplist_for_DE_2013_05_19.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_20
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_19
+get json and write to txt
+-----------2013-12-27 16:48:49-----------
+get json and write to txt
+-----------2013-12-27 16:48:54-----------
+./data/de/spotify_toplist_for_DE_2013_05_22.gz created
+get json and write to txt
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_22
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_05_23.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_23
+get json and write to txt
+get json and write to txt
+get json and write to txt
+get json and write to txt
+-----------2013-12-27 16:50:14-----------
+-----------2013-12-27 16:50:19-----------
+-----------2013-12-27 16:50:23-----------
+-----------2013-12-27 16:50:28-----------
+-----------2013-12-27 16:50:32-----------
+./data/de/spotify_toplist_for_DE_2013_05_24.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_24
+-----------2013-12-27 16:50:38-----------
+./data/de/spotify_toplist_for_DE_2013_05_25.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_25
+./data/de/spotify_toplist_for_DE_2013_05_27.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_27
+./data/de/spotify_toplist_for_DE_2013_05_26.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_26
+./data/de/spotify_toplist_for_DE_2013_05_29.gz created
+./data/de/spotify_toplist_for_DE_2013_05_28.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_29
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_28
+get json and write to txt
+-----------2013-12-27 16:51:33-----------
+get json and write to txt
+-----------2013-12-27 16:51:44-----------
+./data/de/spotify_toplist_for_DE_2013_05_31.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_31
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2013_05_30.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2013_05_30
+get json and write to txt
+get json and write to txt
+get json and write to txt
+get json and write to txt
+get json and write to txt
+-----------2014-01-13 09:12:52-----------
+./data/it/spotify_toplist_for_IT_2014_01_10.gz created
+unzip to ./data/it/spotify_toplist_for_IT_2014_01_10
+get json and write to txt
+-----------2014-02-20 09:54:31-----------
+./data/es/spotify_toplist_for_ES_2014_02_18.gz created
+unzip to ./data/es/spotify_toplist_for_ES_2014_02_18
+-----------2014-03-14 16:25:26-----------
+AT-2014-03-13: no data from Spotify-WS!!!
+-----------2014-03-14 16:25:41-----------
+CH-2014-03-13: no data from Spotify-WS!!!
+-----------2014-03-14 16:25:47-----------
+DE-2014-03-13: no data from Spotify-WS!!!
+-----------2014-03-14 16:27:07-----------
+./data/at/spotify_toplist_for_AT_2014_03_11.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2014_03_11
+-----------2014-03-14 16:27:17-----------
+./data/ch/spotify_toplist_for_CH_2014_03_11.gz created
+unzip to ./data/ch/spotify_toplist_for_CH_2014_03_11
+get json and write to txt
+-----------2014-03-14 16:27:28-----------
+-----------2014-03-14 16:27:38-----------
+./data/de/spotify_toplist_for_DE_2014_03_11.gz created
+-----------2014-03-14 16:27:49-----------
+unzip to ./data/de/spotify_toplist_for_DE_2014_03_11
+./data/be/spotify_toplist_for_BE_2014_03_11.gz created
+unzip to ./data/be/spotify_toplist_for_BE_2014_03_11
+get json and write to txt
+./data/nl/spotify_toplist_for_NL_2014_03_11.gz created
+unzip to ./data/nl/spotify_toplist_for_NL_2014_03_11
+get json and write to txt
+-----------2014-03-14 16:28:48-----------
+-----------2014-03-14 16:28:54-----------
+./data/fr/spotify_toplist_for_FR_2014_03_11.gz created
+unzip to ./data/fr/spotify_toplist_for_FR_2014_03_11
+./data/it/spotify_toplist_for_IT_2014_03_11.gz created
+unzip to ./data/it/spotify_toplist_for_IT_2014_03_11
+get json and write to txt
+get json and write to txt
+get json and write to txt
+-----------2014-03-14 16:31:04-----------
+-----------2014-03-14 16:31:08-----------
+PT-2014-03-11: no data from Spotify-WS!!!
+-----------2014-03-14 16:31:13-----------
+PT-2014-03-11: no data from Spotify-WS!!!
+./data/es/spotify_toplist_for_ES_2014_03_11.gz created
+-----------2014-03-14 16:39:52-----------
+-----------2014-03-14 16:40:06-----------
+./data/de/spotify_toplist_for_DE_2014_03_11.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2014_03_11
+./data/es/spotify_toplist_for_ES_2014_03_11.gz created
+-----------2014-03-14 16:53:22-----------
+./data/es/spotify_toplist_for_ES_2014_03_11.gz created
+-----------2014-03-14 16:55:41-----------
+./data/es/spotify_toplist_for_ES_2014_03_11.gz created
+unzip to ./data/es/spotify_toplist_for_ES_2014_03_11
+-----------2014-03-14 16:57:12-----------
+./data/de/spotify_toplist_for_DE_2014_03_11.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2014_03_11
+-----------2014-03-14 17:01:33-----------
+./data/es/spotify_toplist_for_ES_2014_03_11.gz created
+unzip to ./data/es/spotify_toplist_for_ES_2014_03_11
+get json and write to txt
+-----------2014-03-14 17:04:29-----------
+./data/de/spotify_toplist_for_DE_2014_03_11.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2014_03_11
+get json and write to txt
+-----------2014-03-14 17:10:15-----------
+./data/at/spotify_toplist_for_AT_2014_03_12.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2014_03_12
+-----------2014-03-14 17:10:21-----------
+./data/ch/spotify_toplist_for_CH_2014_03_12.gz created
+unzip to ./data/ch/spotify_toplist_for_CH_2014_03_12
+get json and write to txt
+-----------2014-03-14 17:10:48-----------
+get json and write to txt
+./data/de/spotify_toplist_for_DE_2014_03_12.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2014_03_12
+-----------2014-03-14 17:11:24-----------
+./data/be/spotify_toplist_for_BE_2014_03_12.gz created
+unzip to ./data/be/spotify_toplist_for_BE_2014_03_12
+get json and write to txt
+-----------2014-03-14 17:12:11-----------
+./data/nl/spotify_toplist_for_NL_2014_03_12.gz created
+unzip to ./data/nl/spotify_toplist_for_NL_2014_03_12
+get json and write to txt
+-----------2014-03-14 17:12:55-----------
+./data/fr/spotify_toplist_for_FR_2014_03_12.gz created
+unzip to ./data/fr/spotify_toplist_for_FR_2014_03_12
+get json and write to txt
+-----------2014-03-14 17:14:03-----------
+get json and write to txt
+./data/it/spotify_toplist_for_IT_2014_03_12.gz created
+unzip to ./data/it/spotify_toplist_for_IT_2014_03_12
+-----------2014-03-14 17:14:33-----------
+./data/es/spotify_toplist_for_ES_2014_03_12.gz created
+unzip to ./data/es/spotify_toplist_for_ES_2014_03_12
+get json and write to txt
+-----------2014-03-14 17:15:18-----------
+PT-2014-03-12: no data from Spotify-WS!!!
+get json and write to txt
+-----------2014-03-18 15:38:52-----------
+./data/at/spotify_toplist_for_AT_2014_03_17.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2014_03_17
+get json and write to txt
+-----------2014-03-24 12:08:20-----------
+./data/at/spotify_toplist_for_AT_2014_03_21.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2014_03_21
+get json and write to txt
+-----------2014-03-24 12:10:51-----------
+./data/ch/spotify_toplist_for_CH_2014_03_21.gz created
+unzip to ./data/ch/spotify_toplist_for_CH_2014_03_21
+get json and write to txt
+-----------2014-03-24 12:11:58-----------
+./data/de/spotify_toplist_for_DE_2014_03_21.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2014_03_21
+get json and write to txt
+-----------2014-03-24 12:13:51-----------
+./data/be/spotify_toplist_for_BE_2014_03_21.gz created
+unzip to ./data/be/spotify_toplist_for_BE_2014_03_21
+get json and write to txt
+-----------2014-03-24 12:15:15-----------
+./data/nl/spotify_toplist_for_NL_2014_03_21.gz created
+unzip to ./data/nl/spotify_toplist_for_NL_2014_03_21
+-----------2014-03-24 12:16:45-----------
+./data/fr/spotify_toplist_for_FR_2014_03_21.gz created
+get json and write to txt
+unzip to ./data/fr/spotify_toplist_for_FR_2014_03_21
+-----------2014-03-24 12:17:07-----------
+./data/it/spotify_toplist_for_IT_2014_03_21.gz created
+-----------2014-03-24 12:17:18-----------
+unzip to ./data/it/spotify_toplist_for_IT_2014_03_21
+./data/es/spotify_toplist_for_ES_2014_03_21.gz created
+unzip to ./data/es/spotify_toplist_for_ES_2014_03_21
+get json and write to txt
+get json and write to txt
+-----------2014-03-24 12:18:34-----------
+PT-2014-03-21: no data from Spotify-WS!!!
+get json and write to txt
+-----------2014-04-05 23:36:42-----------
+./data/it/spotify_toplist_for_IT_2014_04_02.gz created
+unzip to ./data/it/spotify_toplist_for_IT_2014_04_02
+get json and write to txt
+-----------2014-04-07 17:16:38-----------
+./data/at/spotify_toplist_for_AT_2014_04_03.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2014_04_03
+get json and write to txt
+-----------2014-04-07 17:26:03-----------
+AT-2014-04-04: no data from Spotify-WS!!!
+-----------2014-04-08 09:54:07-----------
+./data/de/spotify_toplist_for_DE_2014_04_02.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2014_04_02
+get json and write to txt
+-----------2014-04-08 09:56:14-----------
+AT-2014-04-05: no data from Spotify-WS!!!
+-----------2014-04-08 09:56:22-----------
+ES-2014-04-05: no data from Spotify-WS!!!
+-----------2014-04-08 13:20:03-----------
+./data/de/spotify_toplist_for_DE_2014_04_02.gz created
+unzip to ./data/de/spotify_toplist_for_DE_2014_04_02
+get json and write to txt
+-----------2014-04-08 13:52:38-----------
+./data/at/spotify_toplist_for_AT_2014_04_02.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2014_04_02
+-----------2014-04-08 13:52:44-----------
+./data/ch/spotify_toplist_for_CH_2014_04_02.gz created
+unzip to ./data/ch/spotify_toplist_for_CH_2014_04_02
+get json and write to txt
+-----------2014-04-08 13:53:01-----------
+./data/be/spotify_toplist_for_BE_2014_04_02.gz created
+unzip to ./data/be/spotify_toplist_for_BE_2014_04_02
+-----------2014-04-08 13:53:13-----------
+get json and write to txt
+./data/nl/spotify_toplist_for_NL_2014_04_02.gz created
+unzip to ./data/nl/spotify_toplist_for_NL_2014_04_02
+-----------2014-04-08 13:53:34-----------
+./data/fr/spotify_toplist_for_FR_2014_04_02.gz created
+unzip to ./data/fr/spotify_toplist_for_FR_2014_04_02
+get json and write to txt
+-----------2014-04-08 13:54:35-----------
+./data/it/spotify_toplist_for_IT_2014_04_02.gz created
+unzip to ./data/it/spotify_toplist_for_IT_2014_04_02
+get json and write to txt
+get json and write to txt
+-----------2014-04-08 13:55:14-----------
+./data/es/spotify_toplist_for_ES_2014_04_02.gz created
+get json and write to txt
+unzip to ./data/es/spotify_toplist_for_ES_2014_04_02
+get json and write to txt
+-----------2014-04-10 14:49:09-----------
+AT-2014-04-10: no data from Spotify-WS!!!
+-----------2014-04-10 14:49:28-----------
+AT-2014-04-09: no data from Spotify-WS!!!
+-----------2014-04-29 09:45:35-----------
+./data/at/spotify_toplist_for_AT_2014_04_26.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2014_04_26
+get json and write to txt
+-----------2014-04-29 09:48:12-----------
+./data/at/spotify_toplist_for_AT_2014_04_27.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2014_04_27
+get json and write to txt
+-----------2014-04-29 09:50:43-----------
+./data/at/spotify_toplist_for_AT_2014_04_27.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2014_04_27
+-----------2014-04-29 09:52:55-----------
+file spotify_toplist_for_AT_2014_04_27.gz exists!!!
+-----------2014-04-29 09:53:17-----------
+./data/at/spotify_toplist_for_AT_2014_04_27.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2014_04_27
+get json and write to txt
+-----------2014-04-29 09:56:22-----------
+./data/at/spotify_toplist_for_AT_2014_04_27.gz created
+unzip to ./data/at/spotify_toplist_for_AT_2014_04_27
+-----------2014-04-29 11:58:32-----------
+can not open spotify_toplist_for_BE_FLANDERS_2014_04_27.gz
+-----------2014-04-29 12:00:04-----------
+./data/be_flanders/spotify_toplist_for_BE_FLANDERS_2014_04_27.gz created
+unzip to ./data/be_flanders/spotify_toplist_for_BE_FLANDERS_2014_04_27
+manuell export:--------: 2014-07-16 16:21:48-----------
+PT_2014_07_06: no data from Spotify-WS!!!
+manuell export:--------: 2014-07-16 16:21:57-----------
+PT_2014_07_05: no data from Spotify-WS!!!
+manuell export:--------: 2014-07-18 15:44:00-----------
+BE_NO_REGION_2014_07_10: no data from Spotify-WS!!!
+manuell export:--------: 2014-07-18 15:44:21-----------
+can not open /home/MEDIA-CONTROL/manh-cuong.tran/www/htdocs/mein_prj/spotify/htdocs/bin/../data/manuell/at/spotify_toplist_for_AT_2014_07_10.gz
